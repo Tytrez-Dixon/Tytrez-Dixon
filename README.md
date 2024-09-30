@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tytrez-Dixon! I am a college student majoring in Computer Science (with a minor in mathematics). 
-- 🌱 I’m currently learning Java and Python (will be relearning HTML, CSS, and JavaScript in the near future).
+- 🌱 I’m currently learning Java and Python (and will be relearning HTML, CSS, and JavaScript in the near future).
 - 📫 How to reach me: dixontytrez@gmail.com
 - 😄 Pronouns: He / Him
 
